@@ -1,5 +1,7 @@
 # NYC problem
 
+Issue created with NYC – https://github.com/istanbuljs/nyc/issues/898
+
 ## Setup
 
 ```sh
